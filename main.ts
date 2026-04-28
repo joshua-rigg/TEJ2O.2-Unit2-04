@@ -2,7 +2,7 @@
  *
  * Created by: Joshua
  * Created on: Feb 2026
- * This program will say what the temperature is
+ * This program will say the temperature
 */
 
 let temperature: number
